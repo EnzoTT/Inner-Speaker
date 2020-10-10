@@ -10,7 +10,7 @@ Ele foi inspirado na banda Tame Impala, sendo que cada uma das três fase é ins
 
 ![Primeira Fase](https://github.com/EnzoTT/Inner-Speaker/blob/main/Fase%201.PNG)
 
-O sistema de colisão implementado é bem interessante, pode ver nessa imagem as hitbox visíveis. Se você tiver interesse fique o código está totalmente comentado, e qualquer dúvida pode entrar em contato.
+O sistema de colisão implementado é bem interessante,como você pode ver nessa imagem as hitbox estão visíveis(no jogo final não estavam). Se você tiver interesse o código está totalmente comentado, e qualquer dúvida pode entrar em contato.
 
 ![Colisao](https://github.com/EnzoTT/Inner-Speaker/blob/main/Hitbox.PNG)
 
