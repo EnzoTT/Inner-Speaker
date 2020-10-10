@@ -10,6 +10,10 @@ Ele foi inspirado na banda Tame Impala, sendo que cada uma das três fase é ins
 
 ![Primeira Fase](https://github.com/EnzoTT/Inner-Speaker/blob/main/Fase%201.PNG)
 
-**Você pode jogar o jogo baixando a pasta Realease que está dentro da pasta Jogo, dentro dessa pasta encontrará o Jogo.exe, que é o executável do game**
+
+## Para jogar o Inner Speaker!
+Você pode jogar o jogo baixando a pasta Realease que está dentro da pasta Jogo, dentro dessa pasta encontrará o Jogo.exe, que é o executável
+
+
 
 
