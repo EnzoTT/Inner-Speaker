@@ -12,7 +12,7 @@ Ele foi inspirado na banda Tame Impala, sendo que cada uma das três fase é ins
 
 
 ## Para jogar o Inner Speaker!
-Você pode jogar o jogo baixando a pasta Realease que está dentro da pasta Jogo, dentro dessa pasta encontrará o Jogo.exe, que é o executável
+Você pode jogar o jogo baixando a pasta Release que está dentro da pasta Jogo, dentro dessa pasta encontrará o Jogo.exe, que é o executável
 
 
 
