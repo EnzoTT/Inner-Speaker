@@ -1,5 +1,6 @@
+<p align="center">
+ <img src=https://github.com/EnzoTT/Inner-Speaker/blob/main/InnerSpeaker.PNG>
 
-![Inner Speaker](https://github.com/EnzoTT/Inner-Speaker/blob/main/InnerSpeaker.PNG)
 ## Jogo feito utilizando apenas a linguagem C++ e SFML
 
 Esse projeto foi feito para a disciplina de Técnicas de Programação do curso de engenharia de computação da UTFPR, com o objetivo de aprender programação orientada a objetos. Você pode encontrar os detalhes dos requisitos na pasta **Documentação**, além do relatório final, apresentação de slides e um diagrama UML detalhado sobre projeto.
